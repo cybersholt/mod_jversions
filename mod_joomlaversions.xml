@@ -32,11 +32,15 @@
 				/>
 				<field
 					name="prefixes"
-					type="text"
+					type="list"
 					default="3"
 					label="MOD_JOOMLAVERSIONS_FIELD_PREFIXES_LABEL"
-				    description="MOD_JOOMLAVERSIONS_FIELD_PREFIXES_DESC"
-				/>
+					description="MOD_JOOMLAVERSIONS_FIELD_PREFIXES_DESC"
+				    multiple="true"
+				>
+					<option value="2">MOD_JOOMLAVERSIONS_FIELD_PREFIXES_J2</option>
+					<option value="3">MOD_JOOMLAVERSIONS_FIELD_PREFIXES_J3</option>
+				</field>
 			</fieldset>
 			<fieldset name="advanced">
 				<field
