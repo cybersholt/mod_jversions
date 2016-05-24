@@ -20,6 +20,9 @@
 		<language tag="en-GB">en-GB/en-GB.mod_joomlaversions.ini</language>
 		<language tag="en-GB">en-GB/en-GB.mod_joomlaversions.sys.ini</language>
 	</languages>
+	<updateservers>
+		<server type="extension" priority="2" name="GitHub update server">https://github.com/n9iels/mod_joomlaversions/blob/master/update.xml</server>
+	</updateservers>
 	<config>
 		<fields name="params">
 			<fieldset name="basic">

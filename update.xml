@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+	<update>
+		<name>Joomla! versions</name>
+		<description>Update for mod_joomlaversions</description>
+		<element>mod_joomlaversions</element>
+		<client>0</client>
+		<type>package</type>
+		<version>1.0.0</version>
+		<infourl title="Release information">https://github.com/n9iels/mod_joomlaversions/releases/tag/V1.0.0</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_joomlaversions/archive/V1.0.0.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3"/>
+	</update>
+</updates>
