@@ -28,7 +28,7 @@ defined('_JEXEC') or die;
 				dataType: 'json',
 				success: function (response) {
 					$.each(response, function(index, value) {
-						$('.latest_version').append('<div class="jversion">' + value + '</div>');
+						$('.latest_version').append('<div class="jversion"><span class="icon icon-joomla"></span><span class="text">' + value + '</span></div>');
 					});
 				},
 				error: function (response) {
