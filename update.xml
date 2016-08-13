@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>Joomla! version module</name>
+		<name>Joomla! versions</name>
 		<description>^ Change copyrights&lt;br&gt;# Correct language strings</description>
 		<element>mod_joomlaversions</element>
 		<type>module</type>
