@@ -3,16 +3,9 @@
 	<core_body>
 	Joomla! Versions is a Joomla! module that displays the latest version of the Joomla! CMS on your website. The latest version is retrieved with help of the official Joomla! Update server. You can choose wich version prefix you like to show.
 	</core_body>
-
 	<homepage_link>http://n9iels.github.io/extensions/joomla-versions</homepage_link>
 	<download_link>http://n9iels.github.io/extensions/joomla-versions</download_link>
-	<demo_link></demo_link>
-	<documentation_link></documentation_link>
-	<support_link></support_link>
-	<license_link></license_link>
-	
 	<version>V1.1.2</version>
-
 	<compatibility>
 		<version>30</version>
 	</compatibility>
