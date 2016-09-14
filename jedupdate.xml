@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jedupdate version="1">
 	<core_body>
-	JVersions is a Joomla! module that displays the latest version of the Joomla! CMS on your website. The latest version is retrieved with help of the official Joomla! Update server. You can choose wich version prefix you like to show.
+	J!Versions is a Joomla! module that displays the latest version of the Joomla! CMS on your website. The latest version is retrieved with help of the official Joomla! Update server. You can choose wich version prefix you like to show.
 	</core_body>
 	<homepage_link>http://n9iels.github.io/extensions/jversions</homepage_link>
 	<download_link>http://n9iels.github.io/extensions/jversions</download_link>

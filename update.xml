@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>Joomla! versions</name>
+		<name>J!Versions</name>
 		<description>^ Change copyrights&lt;br&gt;# Correct language strings</description>
 		<element>mod_jversions</element>
 		<type>module</type>
@@ -13,7 +13,7 @@
 		<client>site</client>
 	</update>
 	<update>
-		<name>Joomla! version module</name>
+		<name>J!Versions</name>
 		<description>+ Adds HTML to versions for styling</description>
 		<element>mod_jversions</element>
 		<type>module</type>
@@ -25,7 +25,7 @@
 		<client>site</client>
 	</update>
 	<update>
-		<name>Joomla! version module</name>
+		<name>J!Versions</name>
 		<description>+ Update server&lt;br&gt;+ Selection field for prefix</description>
 		<element>mod_jversions</element>
 		<type>module</type>
@@ -37,8 +37,8 @@
 		<client>site</client>
 	</update>
 	<update>
-		<name>Joomla! version module</name>
-		<description>Joomla! versions module update</description>
+		<name>J!Versions</name>
+		<description>J!Versions module update</description>
 		<element>mod_jversions</element>
 		<type>module</type>
 		<version>1.0.0</version>
