@@ -1,7 +1,7 @@
 <?php
 /**
- * @package     Joomla_Versions
- * @subpackage  mod_joomlaversions
+ * @package     JVersions
+ * @subpackage  mod_jversions
  *
  * @copyright   Copyright (C) 2016 Niels van der Veer. All rights reserved.
  * @license     GNU General Public License version 2 or later
@@ -10,14 +10,14 @@
 defined('_JEXEC') or die;
 
 /**
- * Helper for mod_joomlaversions
+ * Helper for mod_jversions
  *
- * @package     Joomla_Versions
- * @subpackage  mod_joomlaversions
+ * @package     JVersions
+ * @subpackage  mod_jversions
  *
  * @since       1.0.0
  */
-class ModJoomlaVersionsHelper
+class ModJVersionsHelper
 {
 	/**
 	 * Get all the versions from joomla.org

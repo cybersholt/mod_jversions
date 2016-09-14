@@ -1,7 +1,7 @@
 <?php
 /**
- * @package     Joomla_Versions
- * @subpackage  mod_joomlaversions
+ * @package     JVersions
+ * @subpackage  mod_jversions
  *
  * @copyright   Copyright (C) 2016 Niels van der Veer. All rights reserved.
  * @license     GNU General Public License version 2 or later
@@ -15,7 +15,7 @@ $script = "
 	$(document).ready(function() {
 		var request = {
 			'option': 'com_ajax',
-			'module': 'joomlaversions',
+			'module': 'jversions',
 			'prefixes': " . json_encode($params->get('prefixes', array())) . ",
 			'update_url' : '" . $params->get('update_url', 'https://update.joomla.org/core/list.xml') . "',
 			'format': 'raw'
@@ -31,7 +31,7 @@ $script = "
 				});
 			},
 			error: function (response) {
-				$('.latest-versions').html('" . JText::_('MOD_JOOMLAVERSIONS_RESPONSE_ERROR') . "');
+				$('.latest-versions').html('" . JText::_('MOD_JVERSIONS_RESPONSE_ERROR') . "');
 			}
 		});
 

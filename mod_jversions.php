@@ -1,7 +1,7 @@
 <?php
 /**
- * @package     Joomla_Versions
- * @subpackage  mod_joomlaversions
+ * @package     JVersions
+ * @subpackage  mod_jversions
  *
  * @copyright   Copyright (C) 2016 Niels van der Veer. All rights reserved.
  * @license     GNU General Public License version 2 or later
@@ -16,4 +16,4 @@ require_once __DIR__ . '/helper.php';
 $layout = $params->get('layout', 'default');
 
 // Include the layout file 
-require JModuleHelper::getLayoutPath('mod_joomlaversions', $layout);
+require JModuleHelper::getLayoutPath('mod_jversions', $layout);
