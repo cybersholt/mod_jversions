@@ -21,7 +21,7 @@
 		<language tag="en-GB">en-GB/en-GB.mod_jversions.sys.ini</language>
 	</languages>
 	<updateservers>
-		<server type="extension" priority="2" name="mod_jversions update server">https://raw.githubusercontent.com/n9iels/mod_jversions/master/update.xml</server>
+		<server type="extension" priority="2" name="J!Versions update server">https://raw.githubusercontent.com/n9iels/mod_jversions/master/update.xml</server>
 	</updateservers>
 	<config>
 		<fields name="params">
