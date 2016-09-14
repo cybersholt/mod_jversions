@@ -3,11 +3,11 @@
 	<update>
 		<name>Joomla! versions</name>
 		<description>^ Change copyrights&lt;br&gt;# Correct language strings</description>
-		<element>mod_joomlaversions</element>
+		<element>mod_jversions</element>
 		<type>module</type>
 		<version>1.1.2</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_joomlaversions/archive/V1.1.2.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_jversions/archive/V1.1.2.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3"/>
 		<client>site</client>
@@ -15,11 +15,11 @@
 	<update>
 		<name>Joomla! version module</name>
 		<description>+ Adds HTML to versions for styling</description>
-		<element>mod_joomlaversions</element>
+		<element>mod_jversions</element>
 		<type>module</type>
 		<version>1.1.1</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_joomlaversions/archive/V1.1.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_jversions/archive/V1.1.1.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3"/>
 		<client>site</client>
@@ -27,11 +27,11 @@
 	<update>
 		<name>Joomla! version module</name>
 		<description>+ Update server&lt;br&gt;+ Selection field for prefix</description>
-		<element>mod_joomlaversions</element>
+		<element>mod_jversions</element>
 		<type>module</type>
 		<version>1.1.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_joomlaversions/archive/V1.1.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_jversions/archive/V1.1.0.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3"/>
 		<client>site</client>
@@ -39,11 +39,11 @@
 	<update>
 		<name>Joomla! version module</name>
 		<description>Joomla! versions module update</description>
-		<element>mod_joomlaversions</element>
+		<element>mod_jversions</element>
 		<type>module</type>
 		<version>1.0.0</version>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_joomlaversions/archive/V1.0.0.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_jversions/archive/V1.0.0.zip</downloadurl>
 		</downloads>
 		<targetplatform name="joomla" version="3"/>
 		<client>site</client>
