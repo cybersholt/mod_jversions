@@ -34,6 +34,13 @@
 				    description="MOD_JVERSIONS_FIELD_UPDATEURL_DESC"
 				/>
 				<field
+					name="download_url"
+				    type="text"
+				    default="http://downloads.joomla.org"
+				    label="MOD_JVERSIONS_FIELD_DOWNLOADURL_LABEL"
+				    description="MOD_JVERSIONS_FIELD_DOWNLOADURL_LABEL"
+				/>
+				<field
 					name="prefixes"
 					type="list"
 					default="3"
