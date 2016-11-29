@@ -2,7 +2,19 @@
 <updates>
 	<update>
 		<name>J!Versions</name>
-		<description>+ Download button</description>
+		<description>+ Add parameter to select the target</description>
+		<element>mod_jversions</element>
+		<type>module</type>
+		<version>1.2.1</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_jversions/archive/V1.2.1.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="3"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>J!Versions</name>
+		<description>+ Update url button</description>
 		<element>mod_jversions</element>
 		<type>module</type>
 		<version>1.2.0</version>
