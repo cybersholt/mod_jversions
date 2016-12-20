@@ -2,6 +2,18 @@
 <updates>
 	<update>
 		<name>J!Versions</name>
+		<description>^ Use Joomla! API instead of XML file</description>
+		<element>mod_jversions</element>
+		<type>module</type>
+		<version>2.0.0</version>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/n9iels/mod_jversions/archive/V2.0.0.zip</downloadurl>
+		</downloads>
+		<targetplatform name="joomla" version="3"/>
+		<client>site</client>
+	</update>
+	<update>
+		<name>J!Versions</name>
 		<description>+ Add parameter to select the target</description>
 		<element>mod_jversions</element>
 		<type>module</type>
